@@ -3,4 +3,6 @@ const globalVaribleBig = 999;
 // and some more
 // and even more stuff
 
+const double = (num) => num * 2;
+
 const other = 45;
