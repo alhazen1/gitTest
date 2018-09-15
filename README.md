@@ -2,8 +2,6 @@
 Just a whole bunch of me playing around with git and github.
 
 
-```javascript
-const myFunc = (arr) => {
-   return arr.map( el => el*2);
-}
+```
+/testquote.net/v1/quantity/5/author/car/keyword/success/callback/quoteCallback
 ```
