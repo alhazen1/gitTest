@@ -8,3 +8,5 @@ function double(num){
 }
 
 const other = 45;
+
+let i = 0;
